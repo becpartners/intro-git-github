@@ -15,3 +15,4 @@ Course homepage:
 5. Create new Pull Request
 
 // Configuration de notepad
+Modification du fichier readme.md
